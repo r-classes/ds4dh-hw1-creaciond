@@ -41,3 +41,9 @@
 Полезно знать про раздел [GitHub Guides](https://guides.github.com/).
 
 ## Оценка: 8
+
+
+
+
+
+
